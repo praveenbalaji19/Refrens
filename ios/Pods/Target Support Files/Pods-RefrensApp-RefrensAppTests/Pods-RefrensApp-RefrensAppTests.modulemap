@@ -1,0 +1,6 @@
+module Pods_RefrensApp_RefrensAppTests {
+  umbrella header "Pods-RefrensApp-RefrensAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
